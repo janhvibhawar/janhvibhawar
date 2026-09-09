@@ -13,7 +13,7 @@ I enjoy building practical projects, learning new technologies, and turning idea
 * 🎓 MCA Student
 * 💻 Interested in **Full-Stack Web Development**
 * 🌱 Currently learning **React, Node.js, Express & MongoDB**
-* 🧠 Practicing **Data Structures & Algorithms**
+* 🧠 Practicing **Data Structures & Algorithms in C++**
 * 🤖 Exploring **Generative AI & LLMs**
 * 🏗️ Building projects to strengthen my development skills
 * 🎯 Goal: Become a strong software developer
@@ -24,6 +24,7 @@ I enjoy building practical projects, learning new technologies, and turning idea
 
 ### Languages
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -64,12 +65,12 @@ A rental management system designed to simplify property and tenant management.
 
 ## 📚 Currently Learning
 
-* React.js
-* Advanced Node.js & Express
-* REST APIs
-* Database Design
-* Data Structures & Algorithms
-* Generative AI & LLMs
+* ⚛️ React.js
+* 🌐 Advanced Node.js & Express
+* 🔗 REST APIs
+* 🗄️ Database Design
+* 🧠 Data Structures & Algorithms in C++
+* 🤖 Generative AI & LLMs
 
 ---
 
@@ -78,18 +79,18 @@ A rental management system designed to simplify property and tenant management.
 * [ ] Become confident with React
 * [ ] Build production-ready full-stack projects
 * [ ] Build and consume REST APIs
-* [ ] Improve DSA problem-solving
-* [ ] Learn more about AI/LLMs
+* [ ] Improve DSA problem-solving in C++
+* [ ] Learn more about AI & LLMs
 * [ ] Contribute to open-source projects
 * [ ] Land a software development internship/job
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub Journey
 
-![Janhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+I'm actively working on building projects, practicing DSA, and improving my development skills.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+**Code → Learn → Build → Repeat 🚀**
 
 ---
 
